@@ -1,7 +1,7 @@
 #!/bin/bash
 
-BOT_TOKEN="7207999152:AAGiJRGHJDx6lbzuOQMK9Og6FLPeeUAcVPk"
-CHAT_ID="5969240980"
+BOT_TOKEN="bottoken"
+CHAT_ID="chatıd"
 
 
 #Dosya adını belirtelim
